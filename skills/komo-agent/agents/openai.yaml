@@ -1,0 +1,5 @@
+interface:
+  display_name: "Komo Agent"
+  short_description: "Chinese-first routing for installed Codex capabilities"
+  default_prompt: "Use $komo-agent to route this project request to the best installed skill, plugin, and MCP with concise Chinese-first handling."
+
